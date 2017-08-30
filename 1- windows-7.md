@@ -9,8 +9,8 @@
 
 2. Visual studio shell - free version of VS2010, VS2012 and VS2013 for various languages
 
-- Python tools for Visual Studio - open source plugin for python development in VS
-- Nodejs tools for Visual Studio - open source plugin for Node.js dovelopment in VS
+- Python tools for Visual Studio - open source extention for python development in VS
+- Nodejs tools for Visual Studio - open source extention for Node.js dovelopment in VS
 
 3. Visual C# 2010 Express, Visual Studio Express 2012/2013 -  free versions of VS for indie/students C#-developers. 
 
@@ -26,7 +26,7 @@
 
 ## Command Line Apps
 
-- Bash for Win32
+- win-bash (Bash port for Windows) https://sourceforge.net/projects/win-bash/
 - MinGW
 - ...
 
