@@ -1,6 +1,6 @@
 # My Windows 7
 
-Здесь будет спиок любимого софта под винду для программирования (и не только) с описанием.
+Здесь приведен список софта, из-за которого Windows 7 пока является моей основной операционкой.
 
 
 ## Applications
@@ -18,7 +18,21 @@
 
 4. SharpDevelop - very good opensource alternative to Visual Studio and Xamarin Studio.
 
-5. 
+5. WinSplit Revolution 11.04 (free version)
+## Games & gamedev
+
+### games
+
+- Battle.Net Client (for Starcraft II, StarCraft Remastered, Diablo III)
+- Diablo II
+- Torchlight
+- and many others games which are only for Windows 
+
+## gamedev
+
+- XNA 4
+- Gideros
+- Duality (that game engine work only under windows)
 
 ## Browser
 
