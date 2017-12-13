@@ -22,21 +22,24 @@ At work\, I forced to use Windows XP, Therefore, here only a selection of softwa
 - PHP 5.4
 - Love2d (game framework, writing in Lua)
 - XNA Game Studio 4.0 (Game framework writing in C# for Visual Studio 2010)
+- Clojure
+- Kotlin
 
 ## Editors:
+- LightTable 0.7.2
 - Adobe Brackets 1.7 (newest versions is not supported Windows XP)
 - Sublime Text
 - Textadept
 - Geany
 - gVim
-- jedit (and some more editors writing in java)
+- jEdit (and some more editors writing in java)
 - Bluefish
 - some more editors
 
 ## Browsers
 
 - Sea Monkey
-- Firefox 52
+- Firefox 52 esr
 
 ## Office
 
