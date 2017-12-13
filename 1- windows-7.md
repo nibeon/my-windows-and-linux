@@ -5,9 +5,9 @@
 
 ## Applications
 
-1. PortableApps Platform - awesome platform for windows applications for using soft without installation
+1. PortableApps Platform (!) - awesome platform for windows applications for using soft without installation
 
-2. Visual studio shell - free version of VS2010, VS2012 and VS2013 for various languages
+2. Visual studio shell (!) - free version of VS2010, VS2012 and VS2013 for various languages
 
 - Python tools for Visual Studio - open source extention for python development in VS
 - Nodejs tools for Visual Studio - open source extention for Node.js dovelopment in VS
@@ -16,9 +16,10 @@
 
 - XNA GameStudio 4 - хороший игровой движок/фреймворк на С#, к сожалению более не развиваемый майкрософтом (благо есть биндинги XNA 4 для современных версий вижуал студии, а также MonoGame)
 
-4. SharpDevelop - very good opensource alternative to Visual Studio and Xamarin Studio.
+4. SharpDevelop (!) - very good opensource alternative to Visual Studio and Xamarin Studio.
 
 5. WinSplit Revolution 11.04 (free version)
+
 ## Games & gamedev
 
 ### games
@@ -32,7 +33,7 @@
 
 - XNA 4
 - Gideros
-- Duality (that game engine work only under windows)
+- Unity 3D
 
 ## Browser
 
@@ -42,6 +43,6 @@
 
 - win-bash (Bash port for Windows) https://sourceforge.net/projects/win-bash/
 - MinGW
-- ...
+- Cygwin
 
 ## Desktop Screenshots (или нет?)
