@@ -1,6 +1,10 @@
 # My Windows 7
 
-Здесь приведен список софта, из-за которого Windows 7 пока является моей основной операционкой.
+Здесь приведен список софта и железа, из-за которых Windows 7 пока является моей основной операционкой.
+
+## Hardware
+
+- sound card Creative Audigy 2 (последние оффициальные драйвера для этой аудиокарты только под "семерку")
 
 
 ## Applications
@@ -16,9 +20,13 @@
 
 - XNA GameStudio 4 - хороший игровой движок/фреймворк на С#, к сожалению более не развиваемый майкрософтом (благо есть биндинги XNA 4 для современных версий вижуал студии, а также MonoGame)
 
-4. SharpDevelop (!) - very good opensource alternative to Visual Studio and Xamarin Studio.
+4. SharpDevelop 4.4, 5.1 (!) - very good opensource alternative to Visual Studio and Xamarin Studio.
 
 5. WinSplit Revolution 11.04 (free version)
+
+##  Latest versions for Windows 7
+- Python 3.8.x
+- Nodejs 12.9.x
 
 ## Games & gamedev
 
@@ -34,10 +42,6 @@
 - XNA 4
 - Gideros
 - Unity 3D
-
-## Browser
-
-- Sea Monkey
 
 ## Command Line Apps
 
