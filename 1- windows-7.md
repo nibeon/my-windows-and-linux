@@ -26,7 +26,7 @@
 
 ##  Latest versions for Windows 7
 - Python 3.8.x
-- Nodejs 12.9.x
+- Nodejs 12.x
 
 ## Games & gamedev
 
