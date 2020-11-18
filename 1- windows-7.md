@@ -25,8 +25,8 @@
 5. WinSplit Revolution 11.04 (free version)
 
 ##  Latest versions for Windows 7
-- Python 3.8.x
-- Nodejs 12.x
+- Python 3.8
+- Nodejs 12
 
 ## Games & gamedev
 
