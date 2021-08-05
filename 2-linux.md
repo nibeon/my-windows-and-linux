@@ -9,6 +9,7 @@
 - Puppy Linux http://puppylinux.com/
 - AntiX https://antixlinux.com/download/
 - SliTaz http://www.slitaz.org/ru/
+- SparkyLinux https://sparkylinux.org/
 - 
 
 ## not Linux 
